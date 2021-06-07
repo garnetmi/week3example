@@ -18,7 +18,7 @@ public class Week3example {
         // TODO code application logic here
         
         System.out.println("Hello World today is week 3");
-        // today is Monday and week 3
+        // today is Monday and week 3 date
     }
     
 }
